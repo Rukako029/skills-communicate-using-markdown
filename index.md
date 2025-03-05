@@ -9,3 +9,8 @@ Is this perhaps dog? <b>
 ``` python
 print("Hello world!")
 ```
+<b><b>
+
+- [ ] Turn on github blah blah
+- [ ] Outline blahdy blah
+- [ ] xdd this chat is so ill
